@@ -1,1 +1,9 @@
-Para este programa se ha utilizado el compilador g++ version 12.2.0 (2022)
+## ALGORITMOS Y ESTRUCTURAS DE DATOS
+### TRABAJO PRACTICO 0
+
++ K1051
++ 2023
++ Legajo: 2083875
++ Bolaña
++ Gonzalo
++ Compilador utilizado es MinGW 
