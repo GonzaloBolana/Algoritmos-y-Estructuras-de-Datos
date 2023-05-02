@@ -3,7 +3,7 @@
 
 + K1051
 + 2023
-+ Legajo: 2083875
++ 2083875
 + Bolaña
 + Gonzalo
 + Compilador utilizado es MinGW 
