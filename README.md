@@ -1,6 +1,7 @@
 ## ALGORITMOS Y ESTRUCTURAS DE DATOS
-+ Curso K1051
-+ 2023 (ANUAL)
-+ Legajo: 2083875
+
++ K1051
++ 2023 
++ 208.387-5
 + Bolaña
 + Gonzalo
